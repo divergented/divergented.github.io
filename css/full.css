@@ -1,17 +1,21 @@
+Example
+div {
 /*!
  * Start Bootstrap - Full (https://startbootstrap.com/template-overviews/full)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
  */
 
-body {
+body {Example
+div {
+
   background: url('bg.png') no-repeat center center fixed;
       width: 100%;
     height: 378px;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  -o-background-size: 100%;
 
 
 
