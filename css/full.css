@@ -1,13 +1,10 @@
-Example
-div {
 /*!
  * Start Bootstrap - Full (https://startbootstrap.com/template-overviews/full)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
  */
 
-body {Example
-div {
+body {
 
   background: url('bg.png') no-repeat center center fixed;
       width: 100%;
@@ -21,5 +18,5 @@ div {
 
     font-family: 'Playfair Display', serif;
 
-  }
+  
 }
